@@ -1,0 +1,8 @@
+/vendor/
+/node_modules/
+/.env
+*.log
+*.cache
+*.tmp
+.DS_Store
+docker_db_data/

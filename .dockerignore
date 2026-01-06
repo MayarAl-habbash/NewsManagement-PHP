@@ -1,0 +1,8 @@
+.git
+.gitignore
+docs/
+node_modules/
+vendor/
+*.log
+.env
+docker_db_data/
