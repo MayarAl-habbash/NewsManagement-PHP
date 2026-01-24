@@ -6,6 +6,8 @@ services:
     depends_on:
       db:
         condition: service_healthy
+    volumes:
+      - ./uploads:/var/www/html/uploads
 
   db:
     image: mysql:8.0
