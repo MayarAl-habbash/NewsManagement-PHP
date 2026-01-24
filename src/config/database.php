@@ -1,11 +1,11 @@
 <?php
 // config/database.php
 
-$host = 'db'; 
+$host = 'sql311.infinityfree.com'; 
 $port = 3306;
-$dbname   = 'news_management3';
-$user = 'admin';
-$pass = 'admin123';
+$dbname   = 'if0_40984177_mayar';
+$user = 'if0_40984177';
+$pass = '01097167052Ak';
 $charset = 'utf8mb4';
 
 try {
