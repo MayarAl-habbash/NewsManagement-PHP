@@ -52,6 +52,44 @@
 
 ---
 
+Project Deployment Notes
+
+The project was initially containerized using Docker as required in the Operating Systems assignment.
+
+Several VPS and cloud services were tested to deploy the Dockerized project.
+
+Challenges Faced
+
+Cloud VPS: Terminal lag and frequent disconnections made it impractical to work with.
+
+DigitalOcean: Required payment, so it was excluded.
+
+Cloudflare: Dashboard latency caused confusion and slowed deployment.
+
+Database Configuration: Initial issues with database connection after deployment.
+
+Final Solution
+
+Back4App was used for deployment by connecting the project directly from GitHub.
+
+Deployment succeeded after adjusting database configuration files.
+
+The application ran successfully after fixing environment variables and database settings.
+
+What I Learned
+
+Practical differences between VPS providers and cloud platforms.
+
+How Dockerized projects behave differently across environments.
+
+Importance of environment configuration (database, ports, variables).
+
+Troubleshooting deployment and adapting to platform limitations.
+
+
+
+
+
 **Author:** Mayar  
 **Course:** Web Computing  
 **Assignment:** OS Lab – Docker & GitHub Assignment #2
