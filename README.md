@@ -168,9 +168,6 @@ Multiple VPS/cloud platforms were tested before selecting Back4App.
 
 Final deployment was successful and stable.
 
-Screens & Demo
-
-Screenshots and a screen-recorded demo are provided to explain the deployment process and final result.
 
 👤 Author
 
