@@ -135,6 +135,41 @@ Clean repository structure
 
 Professional documentation practices
 
+
+This project is part of the Operating Systems course assignment, focusing on deploying a Dockerized application to a server environment.
+
+Technologies Used
+
+Docker
+
+Git & GitHub
+
+Back4App
+
+Database (configured for cloud deployment)
+
+Deployment Steps
+
+Dockerized the application locally.
+
+Pushed the project to GitHub.
+
+Connected GitHub repository to Back4App.
+
+Deployed the application on Back4App servers.
+
+Updated database configuration for cloud compatibility.
+
+Notes
+
+Multiple VPS/cloud platforms were tested before selecting Back4App.
+
+Final deployment was successful and stable.
+
+Screens & Demo
+
+Screenshots and a screen-recorded demo are provided to explain the deployment process and final result.
+
 👤 Author
 
 Mayar
