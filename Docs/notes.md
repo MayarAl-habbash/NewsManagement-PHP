@@ -60,7 +60,7 @@ Several VPS and cloud services were tested to deploy the Dockerized project.
 
 Challenges Faced
 
-Cloud VPS: Terminal lag and frequent disconnections made it impractical to work with.
+Claw Cloud: Terminal lag and frequent disconnections made it impractical to work with.
 
 DigitalOcean: Required payment, so it was excluded.
 
