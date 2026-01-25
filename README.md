@@ -136,6 +136,8 @@ Clean repository structure
 Professional documentation practices
 
 
+Project Overview
+
 This project is part of the Operating Systems course assignment, focusing on deploying a Dockerized application to a server environment.
 
 Technologies Used
